@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-order-interface/pinyougou-order-interface.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-order-interface/pinyougou-order-interface.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-order-service/pinyougou-order-service.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-order-service/pinyougou-order-service.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-pay-interface/pinyougou-pay-interface.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-pay-interface/pinyougou-pay-interface.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-pay-service/pinyougou-pay-service.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-pay-service/pinyougou-pay-service.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-seckill-interface/pinyougou-seckill-interface.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-seckill-interface/pinyougou-seckill-interface.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-seckill-service/pinyougou-seckill-service.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-seckill-service/pinyougou-seckill-service.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-seckill-web/pinyougou-seckill-web.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-seckill-web/pinyougou-seckill-web.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-task-service/pinyougou-task-service.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-task-service/pinyougou-task-service.iml" />
+    </modules>
+  </component>
+</project>
